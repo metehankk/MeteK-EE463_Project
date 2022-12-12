@@ -1,0 +1,5 @@
+Circuit: * C:\Users\meteh\Desktop\ee463-project\Tests\ltspice\hcpl3120-test.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by R:U2:1.
+WARNING: Less than two connections to node NC_02.  This node is used by R:U2:4.
+Direct Newton iteration for .op point succeeded.
