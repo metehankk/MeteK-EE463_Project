@@ -1,0 +1,51 @@
+
+
+	Resistors
+	- 10 R 										+
+	- 22 R 										+
+	- 220 R										+
+	- 1k R										+
+	- 22k R										+
+	- 39k R										+
+	
+	Power resistor
+	- 0.003 R 4W								+
+	
+	Capacitors
+		LM7805
+		- 0.1 uF tantal 35V + 0.22 uF 63V  electrolytic			+
+		- 0.1 uF 35 V tantal 									+
+	
+		HCPL3120
+		- 0.01 uF 63 V ceramic									+
+		- 0.1 uF 63 V eletrolytic								+
+		
+		BUCK
+		- 470 uF 400V 											+
+		
+		LM358
+		- 0.1uF 35V tantal										+
+		- 0.01 uF 35V ceramic									+
+		
+	- LM358 op-amp												+
+	- LM7805 5V voltage regulator ----- missing					----
+	- HCPL3120 optocoupler										+
+	- IXGH24N60C4D1 IGBT 30A, 600V                        		+
+	- GUO40 3-phase, full bridge rectifier 40A, 1200V			+
+	- DHG30I600PA 30A, 600V Fast diode							+
+	
+	- 5x20mm 25A Glass fuse
+	- 5x20mm 30A Fuse Holder
+	
+	- 5x 4mm born jack, red, green, yellow, blue, black
+	
+	- 1x4 male pin header - 2.54mm    x4						+
+	- 8pin dip socket				  x4						+
+	- to220 heatsink				  x6						+
+	- 6mm female-male metal distance 5mm M3 		x4			+
+	- 20mm female-male metal distance 20mm M3		x4			+
+	- M3 nut x20												+
+	- M3 5m screw x20											+
+	- M3 8m screw x20											+
+	- M3 10m screw x20											+
+	- on/off switch 16mm										+

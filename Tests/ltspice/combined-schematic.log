@@ -1,0 +1,124 @@
+Circuit: * C:\Users\meteh\Desktop\ee463-project\Tests\ltspice\combined-schematic.asc
+
+C8: Increased Cpar to 1e-014
+C6: Increased Cpar to 4.7e-010
+C7: Increased Cpar to 4.7e-010
+C5: Increased Cpar to 1e-013
+C4: Increased Cpar to 1e-014
+C3: Increased Cpar to 1e-013
+C1: Increased Cpar to 1e-013
+WARNING: Node N012 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by R:U3:1.
+WARNING: Less than two connections to node NC_02.  This node is used by R:U3:4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+Gmin = 2.66058e-005
+vernier = 0.666667
+Gmin = 6.58697e-006
+vernier = 0.888888
+vernier = 1
+Gmin = 8.09366e-007
+Gmin = 8.6905e-008
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+vernier = 0.5
+Gmin = 2.30588e-010
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 2.28801e-010
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 2.28577e-010
+vernier = 0.000651042
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.337358%
+Source Step = 0.366951%
+Source Step = 0.396544%
+Source Step = 0.426136%
+Source Step = 0.455729%
+Source Step = 0.485322%
+Source Step = 0.514915%
+Source Step = 0.544508%
+Source Step = 0.5741%
+Source Step = 0.603693%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.772372%
+Source stepping failed
+
+Pseudo transient terminated at 100.432 s, solution accepted ready or not!
+Ignoring empty pin current: Ix(u1:n009)
+Ignoring empty pin current: Ix(u1:nreset)
+Ignoring empty pin current: Ix(u1:n002)
+Ignoring empty pin current: Ix(u1:n005)
+Ignoring empty pin current: Ix(u1:n008)
+Ignoring empty pin current: Ix(u2:n009)
+Ignoring empty pin current: Ix(u2:nreset)
+Ignoring empty pin current: Ix(u2:n002)
+Ignoring empty pin current: Ix(u2:n005)
+Ignoring empty pin current: Ix(u2:n008)
+Ignoring empty pin current: Ix(u3:in)
+Ignoring empty pin current: Ix(u3:out)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u3:gnd)
+Ignoring empty pin current: Ix(u3:nout)
+Ignoring empty pin current: Ix(u1:n009)
+Ignoring empty pin current: Ix(u1:nreset)
+Ignoring empty pin current: Ix(u1:n002)
+Ignoring empty pin current: Ix(u1:n005)
+Ignoring empty pin current: Ix(u1:n008)
+Ignoring empty pin current: Ix(u2:n009)
+Ignoring empty pin current: Ix(u2:nreset)
+Ignoring empty pin current: Ix(u2:n002)
+Ignoring empty pin current: Ix(u2:n005)
+Ignoring empty pin current: Ix(u2:n008)
+Ignoring empty pin current: Ix(u3:in)
+Ignoring empty pin current: Ix(u3:out)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u3:gnd)
+Ignoring empty pin current: Ix(u3:nout)
+Heightened Def Con from 0.00505578 to 0.00505578
+Heightened Def Con from 0.00755025 to 0.00755025
+Heightened Def Con from 0.00800023 to 0.00800023
+Heightened Def Con from 0.0250555 to 0.0250555
+Heightened Def Con from 0.0255001 to 0.0255001
+
+Date: Wed Dec 14 04:58:54 2022
+Total elapsed time: 9.445 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 352416
+traniter = 322647
+tranpoints = 85221
+accept = 62668
+rejected = 23002
+matrix size = 170
+fillins = 183
+solver = Normal
+Thread vector: 16.0/7.9[4] 19.5/6.7[4] 4.0/4.1[1] 1.1/1.5[1]  2592/500
+Matrix Compiler1: 21.83 KB object code size  3.2/1.7/[0.9]
+Matrix Compiler2: 17.25 KB object code size  2.0/2.9/[1.1]
+
