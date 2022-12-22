@@ -7,6 +7,7 @@
 	- 1k R										+
 	- 22k R										+
 	- 39k R										+
+	- 100k R									+
 	
 	Power resistor
 	- 0.003 R 4W								+
@@ -53,13 +54,13 @@
 	
 	-- required
 	
-	- 1x5 screw terminal x2
-	- male/female headers
-	- 1m 12wg cable 
-	- 60x60mm fan
-	- to247 heatsink
-	- black heatsinks
-	- lm7812
+	- 1x5 screw terminal x2 									+
+	- male/female headers										+
+	- 1m 12awg cable 											+
+	- 60x60mm fan												+
+	- to247 heatsink											+
+		- black heatsinks										+
+	- lm7812													+
 	- thermal paste
-	- 2x bourn jack
-	- 2x diode
+	- 2x bourn jack												+
+	- 2x diode													+
