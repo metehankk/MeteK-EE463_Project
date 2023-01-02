@@ -1,0 +1,132 @@
+Stray ".ends" card: .ends stgb7nc60hd
+Circuit: * C:\Users\meteh\Desktop\ee463-project\Tests\ltspice\combined-schematic.asc
+
+C6: Increased Cpar to 9.5e-010
+C5: Increased Cpar to 1e-013
+C4: Increased Cpar to 1e-014
+C1: Increased Cpar to 1e-013
+WARNING: Node N009 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by R:U3:1.
+WARNING: Less than two connections to node NC_02.  This node is used by R:U3:4.
+WARNING: Less than two connections to node CSENSE.  This node is used by V1.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.845778
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 0.8327
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0.833614
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Changing Tseed to 1e-010
+Changing Tseed to 1e-012
+Changing Tseed to 1e-009
+Heightened Def Con from 1e-009 ++to 1e-009
+Heightened Def Con from 1e-009 to 1.3e-009
+Heightened Def Con from 2e-009 to 2.02917e-009
+Heightened Def Con from 1.25167e-007 to 1.28167e-007
+Heightened Def Con from 5.7699e-007 +to 5.7699e-007
+Heightened Def Con from 5.7699e-007 ++++to 5.7699e-007
+Heightened Def Con from 5.7699e-007 ++++to 5.7699e-007
+Heightened Def Con from 5.7699e-007 to 5.7699e-007
+Heightened Def Con from 0.000101146 to 0.000101146
+Heightened Def Con from 0.000101146 ++++++++++++++++to 0.000101146
+Heightened Def Con from 0.000101146 ++++++++++++to 0.000101147
+Heightened Def Con from 0.0005006 ++++++to 0.0005006
+Heightened Def Con from 0.0005006 to 0.0005006
+Heightened Def Con from 0.000601125 to 0.000601125
+Heightened Def Con from 0.000601125 ++to 0.000601125
+Heightened Def Con from 0.000601125 ++to 0.000601125
+Heightened Def Con from 0.000601125 ++++++to 0.000601125
+Heightened Def Con from 0.000601125 +++++++to 0.000601125
+Heightened Def Con from 0.000601125 ++++++++++++++++to 0.000601125
+Heightened Def Con from 0.000601125 ++++++++++++to 0.000601126
+Heightened Def Con from 0.000601126 to 0.000601131
+Heightened Def Con from 0.000982799 to 0.000982803
+Heightened Def Con from 0.001 to 0.001
+Heightened Def Con from 0.00100061 to 0.00100061
+Heightened Def Con from 0.00100061 to 0.00100061
+Heightened Def Con from 0.00110111 +to 0.00110111
+Heightened Def Con from 0.00149977 to 0.00149978
+Heightened Def Con from 0.00150062 to 0.00150062
+Heightened Def Con from 0.00150062 ++to 0.00150062
+Heightened Def Con from 0.00150062 ++++++++to 0.00150062
+Heightened Def Con from 0.00150062 to 0.00150062
+Heightened Def Con from 0.0016011 +++++to 0.0016011
+Heightened Def Con from 0.0016011 to 0.0016011
+Heightened Def Con from 0.0016011 ++++++++++++++++to 0.0016011
+Heightened Def Con from 0.0016011 ++++++++++++to 0.0016011
+Heightened Def Con from 0.00200063 to 0.00200063
+Heightened Def Con from 0.00200063 ++++++++++++to 0.00200063
+Heightened Def Con from 0.00200063 to 0.00200063
+Heightened Def Con from 0.00210109 +to 0.00210109
+Heightened Def Con from 0.00210109 ++++++++++++++++to 0.00210109
+Heightened Def Con from 0.00210109 ++++++++++++to 0.00210109
+Heightened Def Con from 0.0025 to 0.0025
+Heightened Def Con from 0.00250063 to 0.00250063
+Heightened Def Con from 0.00250063 ++to 0.00250063
+Heightened Def Con from 0.00250063 ++++to 0.00250063
+Heightened Def Con from 0.00250063 ++++++++++++to 0.00250063
+Heightened Def Con from 0.00250063 to 0.00250063
+Heightened Def Con from 0.00260108 +to 0.00260108
+Heightened Def Con from 0.00299997 to 0.00299997
+Heightened Def Con from 0.00299998 to 0.00299998
+Heightened Def Con from 0.003 to 0.003
+Heightened Def Con from 0.00300013 to 0.00300013
+Heightened Def Con from 0.00300064 to 0.00300064
+Heightened Def Con from 0.00310107 to 0.00310107
+Heightened Def Con from 0.00310107 +to 0.00310107
+Heightened Def Con from 0.00310107 +to 0.00310107
+Heightened Def Con from 0.00310107 +++++++++++++++++to 0.00310107
+Heightened Def Con from 0.00310107 ++++++++++++to 0.00310107
+Heightened Def Con from 0.00350065 ++++++++++++to 0.00350065
+Heightened Def Con from 0.00350065 to 0.00350065
+Heightened Def Con from 0.00360106 +++++to 0.00360106
+Heightened Def Con from 0.00360106 +++++to 0.00360106
+Heightened Def Con from 0.00360106 +to 0.00360106
+Heightened Def Con from 0.00410105 +to 0.00410106
+Heightened Def Con from 0.00450066 to 0.00450066
+Heightened Def Con from 0.00460105 ++to 0.00460105
+Heightened Def Con from 0.00460105 to 0.00460105
+Heightened Def Con from 0.00460105 +++++++++++++++++to 0.00460105
+Heightened Def Con from 0.00460105 +++++++++++to 0.00460105
+Heightened Def Con from 0.00462347 to 0.00462347
+
+Date: Sun Jan 01 23:03:07 2023
+Total elapsed time: 3.906 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 162333
+traniter = 160236
+tranpoints = 53924
+accept = 36579
+rejected = 17691
+matrix size = 151
+fillins = 216
+solver = Normal
+Thread vector: 12.9/8.0[4] 6.3/4.1[4] 8.4/3.0[4] 0.7/1.6[1]  2592/500
+Matrix Compiler1: 24.92 KB object code size  3.5/2.1/[1.0]
+Matrix Compiler2: 16.44 KB object code size  4.2/3.8/[0.9]
+
